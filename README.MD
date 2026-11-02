@@ -1,3 +1,3 @@
-# php modul5 
+# php modul5
 
-Clone php modul-5 homepage 
+Clone php modul-5 homepage
